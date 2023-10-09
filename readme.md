@@ -18,3 +18,4 @@ See https://debasisnijmegen.nl/rocktober
 6. Exhausted
 7. Rust, a memory-safe programming language ft. Auke
 8. Powerbank
+9. Warning signs of potential organizing
