@@ -19,3 +19,4 @@ See https://debasisnijmegen.nl/rocktober
 7. Rust, a memory-safe programming language ft. Auke
 8. Powerbank
 9. Warning signs of potential organizing
+10. Alien helicopter ft. Noa
