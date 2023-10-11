@@ -152,7 +152,9 @@ export function AudioPlayer({
   return (
     <div className={className}>
       <div className="text-sm text-[var(--muted)] select-none">Day {dayNo}</div>
-      <div className="font-bold text-xl text-[var(--hard)]">{title}</div>
+      <div className="font-bold leading-tight text-xl text-[var(--hard)]">
+        {title}
+      </div>
 
       <div className="mt-1 text-sm text-[var(--muted)]">
         {info}{" "}
