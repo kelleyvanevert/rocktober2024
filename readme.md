@@ -6,7 +6,7 @@ See https://debasisnijmegen.nl/rocktober
 
 - Spend more time making music
 - Getting pushed out of my usual music making habits, discover new ways
-- The music doesn't have to be good, but let's have fun
+- The music doesn't have to be good, it'll often just be silly :D
 
 ## Musics so far
 
