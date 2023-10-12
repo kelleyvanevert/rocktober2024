@@ -56,6 +56,11 @@ const tracks = [
     path: "/tracks/11 - Flute 'n bass.mp3",
     info: "I figured I'd make another drum n bass song :)",
   },
+  {
+    title: "I really need to get MIDI input working",
+    path: "/tracks/12 - I really need to get MIDI input working.mp3",
+    info: "I do really need to get my MIDI setup working through, haha. Recording was a MESS. I had my keyboard playing aloud and my laptop recording from mic in, but that also meant I couldn't play over existing fragments :|",
+  },
 ];
 
 export default function Home() {
