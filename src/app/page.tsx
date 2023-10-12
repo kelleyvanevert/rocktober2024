@@ -54,7 +54,7 @@ const tracks = [
   {
     title: "Flute 'n bass",
     path: "/tracks/11 - Flute 'n bass.mp3",
-    info: "I figured I'd make another drum n bass song :)",
+    info: `Julia (my biggest fan, I sent her daily updates): "Ik krijg hier een beetje stress van" XD`,
   },
 ];
 
