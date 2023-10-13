@@ -61,6 +61,11 @@ const tracks = [
     path: "/tracks/12 - I really need to get MIDI input working.mp3",
     info: "I do really need to get my MIDI setup working through, haha. Recording was a MESS. I had my keyboard playing aloud and my laptop recording from mic in, but that also meant I couldn't play over existing fragments :|",
   },
+  {
+    title: "El pájaro reggaetón",
+    path: "/tracks/13 - El pájaro reggaetón.mp3",
+    info: "This is a bit of an inside joke, I'm playing with the sound that the enigmatic 'Russian spy bird' (+ fish), that Manca once found on the street, makes. Combined with some text from Manca and Cyril :P I think Cyril or I messed up 'pájaro' btw.",
+  },
 ];
 
 export default function Home() {
