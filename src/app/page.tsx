@@ -66,6 +66,16 @@ const tracks = [
     path: "/tracks/13 - El pájaro reggaetón.mp3",
     info: "This is a bit of an inside joke, I'm playing with the sound that the enigmatic 'Russian spy bird' (+ fish), that Manca once found on the street, makes. Combined with some text from Manca and Cyril :P I think Cyril or I messed up 'pájaro' btw.",
   },
+  {
+    title: "Resolve",
+    path: "/tracks/14 - Resolve.mp3",
+    info: "Let's just say that I didn't have a lot of resolve today :P",
+  },
+  {
+    title: "Lullaby",
+    path: "/tracks/15 - Lullaby.mp3",
+    info: "Chen: 'Can you make something oriental?'",
+  },
 ];
 
 export default function Home() {
