@@ -76,6 +76,31 @@ const tracks = [
     path: "/tracks/15 - Lullaby.mp3",
     info: "Chen: 'Can you make something oriental?'",
   },
+  {
+    title: "Placeholder",
+    path: "/tracks/16 - Placeholder.mp3",
+    info: "No time, no energy",
+  },
+  {
+    title: "Me cago en la puta de tu madre",
+    path: "/tracks/17 - Me cago en la puta de tu madre.mp3",
+    info: "Yesterday we had a nice dinner with the whole household, new and old roommates alike, and Maria -- and I got some good cussing samples :D I based this off of Maria's",
+  },
+  {
+    title: "A distinct mmmmhh composition",
+    path: "/tracks/18 - A distinct mmmmhh composition.mp3",
+    info: "I totally forgot that I started watching Love is Blind with Carlota just because of this one crazy interview from it that I'd seen on TikTok, so I sampled it. My sister, who loves psytrance, says the second part is still a bit too much like techno though XD",
+  },
+  {
+    title: "Machinist",
+    path: "/tracks/19 - Machinist.mp3",
+    info: "Cyril and I went to the NS open day for becoming a machinist today. I'm not so super happy with my excessive use of the voice sample, and generally the decoration of today's song, which I started out with a lot of enthusiasm..",
+  },
+  {
+    title: "Raindrops",
+    path: "/tracks/20 - Raindrops.mp3",
+    info: "Today was really not a day for making music .. but, when playing around with the arpeggiator function of my new MIDI controller while setting it up, I started falling in love with the sound of the randomized arpeggiated staccato piano, which I then continued decorating according to my mood. And I brought back an old friend into the song: the double harmonized high-pitched sine waves :)",
+  },
 ];
 
 export default function Home() {
