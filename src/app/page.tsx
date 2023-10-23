@@ -101,6 +101,21 @@ const tracks = [
     path: "/tracks/20 - Raindrops.mp3",
     info: "Today was really not a day for making music .. but, when playing around with the arpeggiator function of my new MIDI controller while setting it up, I started falling in love with the sound of the randomized arpeggiated staccato piano, which I then continued decorating according to my mood. And I brought back an old friend into the song: the double harmonized high-pitched sine waves :)",
   },
+  {
+    title: "Cruiseship",
+    path: "/tracks/21 - Cruiseship.mp3",
+    info: `At Chen's place, so I didn't want to spend too much time making music. I was very happy finding the "cruis ship fog horn" sound at the end though (for different future purposes), hence the name of the song.`,
+  },
+  {
+    title: "Robots having a reasonably good time",
+    path: "/tracks/22 - Robots having a reasonably good time.mp3",
+    info: `Second day at Chen's, we went to a library in the city center so she could read her book and I could work on my song. I started out trying to make a simple drum pattern sound deep and interesting, and then wanted to layer yesterday's "fog horn" over it. In the end I kinda rushed it to completion though, and now it's a .. funny mixture`,
+  },
+  {
+    title: "Nightmare",
+    path: "/tracks/23 - Nightmare.mp3",
+    info: `What started out as an attempt to play a cute (maybe beautiful) piece via my new MIDI controller ... turned into a nightmare storytelling situation, to try to save face when the first thing failed XD Turns out .. that "just playing some piano" is not super easy, when you haven't really played any piano in such a long time... :|`,
+  },
 ];
 
 export default function Home() {
