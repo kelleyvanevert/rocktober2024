@@ -116,6 +116,11 @@ const tracks = [
     path: "/tracks/23 - Nightmare.mp3",
     info: `What started out as an attempt to play a cute (maybe beautiful) piece via my new MIDI controller ... turned into a nightmare storytelling situation, to try to save face when the first thing failed XD Turns out .. that "just playing some piano" is not super easy, when you haven't really played any piano in such a long time... :|`,
   },
+  {
+    title: "I need that in my life",
+    path: "/tracks/24 - I need that in my life.mp3",
+    info: `'Cause Carlota and I are watching Love is Blind a lot recently, and it's just such a good source of samples, haha`,
+  },
 ];
 
 export default function Home() {
