@@ -121,6 +121,11 @@ const tracks = [
     path: "/tracks/24 - I need that in my life.mp3",
     info: `'Cause Carlota and I are watching Love is Blind a lot recently, and it's just such a good source of samples, haha`,
   },
+  {
+    title: "Funk practice",
+    path: "/tracks/25 - Funk practice.mp3",
+    info: "Listening this song back, I think I made a little classic mistake -- I added the guitar track later, but now that it assumes primary focus, it 'decides' the downbeat, making the song wonkier than I intended :P I didn't notice this while making it, because I was already focused on the 'correct' downbeat that I decided on while making the bass line..",
+  },
 ];
 
 export default function Home() {
