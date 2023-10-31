@@ -126,6 +126,22 @@ const tracks = [
     path: "/tracks/25 - Funk practice.mp3",
     info: "Listening this song back, I think I made a little classic mistake -- I added the guitar track later, but now that it assumes primary focus, it 'decides' the downbeat, making the song wonkier than I intended :P I didn't notice this while making it, because I was already focused on the 'correct' downbeat that I decided on while making the bass line..",
   },
+  {
+    title: "Funk practice",
+    path: `/tracks/26 - Advent of Code 2022 - Day 5 - "Supply Stacks".mp3`,
+  },
+  {
+    title: "Funk practice",
+    path: "/tracks/28 - Simplified Neo Soul.mp3",
+  },
+  {
+    title: "Funk practice",
+    path: "/tracks/29 - 28 dagen Cyril.mp3",
+  },
+  {
+    title: "Funk practice",
+    path: "/tracks/30 - Dinosaurs are still alive.mp3",
+  },
 ];
 
 export default function Home() {
