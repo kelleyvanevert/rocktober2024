@@ -129,18 +129,27 @@ const tracks = [
   {
     title: `Advent of Code 2022 - Day 5 - "Supply Stacks"`,
     path: `/tracks/26 - Advent of Code 2022 - Day 5 - "Supply Stacks".mp3`,
+    info: "A very simple first starter at sonifying algorithms. I generated MIDI as a side-output of day 5's solution of last year's Advent of Code. Ideally, I can turn it into a setup where my Advent of Code solutions 'automagically' create some kind of fun sonification :D",
   },
   {
     title: "Simplified Neo Soul",
     path: "/tracks/28 - Simplified Neo Soul.mp3",
+    info: "Having fun with Chen :)",
   },
   {
     title: "28 dagen Cyril",
     path: "/tracks/29 - 28 dagen Cyril.mp3",
+    info: "All source material is from Cyril's previous 28 tracks.",
   },
   {
     title: "Dinosaurs are still alive",
     path: "/tracks/30 - Dinosaurs are still alive.mp3",
+    info: "I think this might be my best one yet. I remembered I once saw a video of a bird singing in slow motion, foudn it on YouTube, and turned it into this :P",
+  },
+  {
+    title: "Het is de laatste dag",
+    path: "/tracks/31 - Het is de laatste dag.mp3",
+    info: "Done!",
   },
 ];
 
