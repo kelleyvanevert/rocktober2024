@@ -6,7 +6,7 @@ import cx from "classnames";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Rocktober 2023",
+  title: "Rocktober 2025",
 };
 
 export default function RootLayout({

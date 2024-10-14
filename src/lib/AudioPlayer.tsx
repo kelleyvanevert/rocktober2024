@@ -152,23 +152,23 @@ export function AudioPlayer({
   return (
     <div className={className}>
       <div className="text-sm text-[var(--muted)] select-none">Day {dayNo}</div>
-      <div className="font-bold leading-tight text-xl text-[var(--hard)]">
-        {title}
-      </div>
 
-      <div className="mt-1 text-sm text-[var(--muted)]">
-        {info}{" "}
-        <span className="whitespace-nowrap">
-          (
+      <div className="flex">
+        <div className="grow">
+          <div className="font-bold leading-tight text-xl text-[var(--hard)]">
+            {title}
+          </div>
+          <div className="mt-1 text-sm text-[var(--muted)]">{info} </div>
+        </div>
+        <span className="whitespace-nowrap text-sm">
           <a
-            className="link"
+            className="link opacity-40"
             target="_blank"
             rel="noopener noreferrer"
             href={url}
           >
             audio file
           </a>
-          )
         </span>
       </div>
 
