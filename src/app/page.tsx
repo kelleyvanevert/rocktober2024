@@ -57,6 +57,38 @@ const tracks = [
     title: "Robot Sewage Dawg",
     path: "/tracks/14-10-2024-Inorganic Mechanic-Robot Sewage Dawg.mp3",
   },
+  {
+    title: "High",
+    path: "/tracks/16-10-2024-Inorganic Mechanic-High.mp3",
+  },
+  {
+    title: "Nespresso",
+    path: "/tracks/17-10-2024-Inorganic Mechanic-Nespresso.mp3",
+  },
+  {
+    title: "well then",
+    path: "/tracks/18-10-2024-Inorganic Mechanic-well then.mp3",
+  },
+  {
+    title: "Playing something with Elliot",
+    path: "/tracks/19-10-2024-Inorganic Mechanic-Playing something with Elliot.mp3",
+  },
+  {
+    title: "Moan",
+    path: "/tracks/20-10-2024-Inorganic Mechanic-Moan.mp3",
+  },
+  {
+    title: "Proto-Justice",
+    path: "/tracks/21-10-2024-Inorganic Mechanic-Proto-Justice.mp3",
+  },
+  {
+    title: "Lekker last minute weer",
+    path: "/tracks/22-10-2024-Inorganic Mechanic-Lekker last minute weer.mp3",
+  },
+  {
+    title: "Meow",
+    path: "/tracks/23-10-2024-Inorganic Mechanic-Meow.mp3",
+  },
 ];
 
 export default function Home() {
